@@ -40,4 +40,4 @@ You can take the glimpse of our Project,just follow the below steps after clonin
     3. Run the server using "npm run server" in the server directory and then run the main chat application inside the frontend directory using "npm start"
 
 ## Video Demo 📹
-    [live video demo](https://www.linkedin.com/posts/harshgaur97_javascript-nodejs-react-activity-6782024902774964225-1Mkq)
+   https://www.linkedin.com/posts/harshgaur97_javascript-nodejs-react-activity-6782024902774964225-1Mkq
