@@ -31,11 +31,9 @@ In this project I have used the following tech stack.
 You can install the libraries using the "**npm install**" or "**npm i**" command
 
 
-## End Notes 📑
+## Installation walkthrough 📑
 
-In this project we were able to achieve a near to perfect clone of the original website. As we do not want to overwhelm you, we haven't shared all the pages here.Please fork the repository and then use it on your own. If you want to collaborate with us on this project then please feel free to reach out to us.
-
-You can also take the glimpse of our Project,just follow the below steps:
+You can take the glimpse of our Project,just follow the below steps after cloning the repository:
 
     1. Goto frontend folder and install all libraries usin "npm i" 
     2. Goto server folder and install all libraries usin "npm i" 
