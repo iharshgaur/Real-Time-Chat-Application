@@ -39,5 +39,22 @@ You can take the glimpse of our Project,just follow the below steps after clonin
     2. Goto server folder and install all libraries usin "npm i" 
     3. Run the server using "npm run server" in the server directory and then run the main chat application inside the frontend directory using "npm start"
 
+
+## Features
+
+1. Users can create new rooms or join other rooms by their room ids
+2. User can send emojis
+
+<br>
+
+## Limitations
+
+1. Not responsive yet and might not be properly visible on small screen devices
+2. Cannot view all the active rooms right now
+3. One on One chatroom is not yet supported
+
+<br>
+
+
 ## Video Demo 📹
    https://www.linkedin.com/posts/harshgaur97_javascript-nodejs-react-activity-6782024902774964225-1Mkq
