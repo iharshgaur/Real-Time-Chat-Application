@@ -13,6 +13,15 @@ In this project I have used the following tech stack.
 - Nodejs <i class="devicon-nodejs-plain"></i>
 
 
+## Screenshots 
+
+1. Join page
+![join page](https://i.ibb.co/rtyLYb6/Capture.jpg)
+
+2. Chat Room
+![chat ](https://i.ibb.co/cFYxqyj/Capture.jpg)
+
+<br/>
 
 ## Dependencies 🌟
 
