@@ -17,10 +17,15 @@ In this project I have used the following tech stack.
 
 1. Join page
 <br/>
+
 ![join page](https://i.ibb.co/rtyLYb6/Capture.jpg)
+
 <br/>
+
 2. Chat Room
+
 <br/>
+
 ![chat ](https://i.ibb.co/cFYxqyj/Capture.jpg)
 
 <br/>
